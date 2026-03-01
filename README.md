@@ -65,4 +65,3 @@ Ardından tarayıcıda `http://localhost:3000` veya `http://localhost:8080` adre
 
 - **Ödev:** Tailwind CSS Landing Page (Ödev 1)
 - **Teslim:** Bu klasör (`tailwind-landing-page`) zip’lenerek veya doğrudan gönderilebilir.
-
